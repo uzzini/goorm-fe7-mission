@@ -1,0 +1,10 @@
+.SideBar {
+  width: 200px;
+  background-color: #f0f0f0;
+  transition: width 0.3s ease;
+  overflow: hidden;
+}
+
+.SideBar_close {
+  width: 45px;
+}
